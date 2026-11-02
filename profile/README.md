@@ -4,7 +4,7 @@
 
 # Draugr
 
-**Know which findings to fix first. From the scanners Draugr runs for you.**
+**Know which findings to fix first. Across the scanners you already run.**
 
 Find the security problems in what you ship — without being a security engineer.
 
