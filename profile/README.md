@@ -4,7 +4,7 @@
 
 # Draugr
 
-**Describe your app. Draugr figures out the rest.**
+**Know which findings to fix first. From the scanners Draugr runs for you.**
 
 Find the security problems in what you ship — without being a security engineer.
 
